@@ -36,6 +36,6 @@ services:
     ports:
     - "3003:3001"
     volumes:
-    - ./:/naivecoin
+    - ./:/mopscoin
     links:
       - node2:node2
