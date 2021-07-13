@@ -501,7 +501,7 @@ Options:
 
 ```sh
 # Cloning repository
-$ git clone git@github.com:conradoqg/mopscoin.git
+$ git clone git@github.com:MyoThuHtay/mopscoin.git
 $ cd mopscoin
 $ npm install
 
