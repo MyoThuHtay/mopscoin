@@ -9,7 +9,7 @@
         "url": "https://github.com/MyoThuHtay/naivecoin.git"
     },
     "bin": {
-        "naivecoin": "bin/mopscoin.js"
+        "mopscoin": "bin/mopscoin.js"
     },
     "scripts": {
         "start": "node bin/mopscoin.js",
