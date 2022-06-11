@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MyoThuHtay/naivecoin.git"
+        "url": "https://github.com/MyoThuHtay/mopscoin.git"
     },
     "bin": {
         "mopscoin": "bin/mopscoin.js"
